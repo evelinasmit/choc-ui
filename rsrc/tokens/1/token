@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<resources>
+  <string name="d9_d9_d9">#AA2D2D</string>
+  <string name="text_icons_neutral_primary_reversed">#FFFFFF</string>
+  <string name="text_icons_neutral_secondary">#605F60</string>
+  <string name="untitled_a_folder_another_1_style">#515656</string><!-- Some color -->
+  
+</resources>
