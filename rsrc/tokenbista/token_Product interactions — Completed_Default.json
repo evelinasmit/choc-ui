@@ -1,0 +1,18 @@
+{
+  "Amount available": {
+    "$type": "number",
+    "$value": 4
+  },
+  "Cart button text": {
+    "$type": "string",
+    "$value": "Available"
+  },
+  "Has cart": {
+    "$type": "boolean",
+    "$value": false
+  },
+  "Is available": {
+    "$type": "boolean",
+    "$value": false
+  }
+}
