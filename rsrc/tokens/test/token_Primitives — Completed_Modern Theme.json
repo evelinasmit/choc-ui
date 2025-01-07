@@ -1,0 +1,41 @@
+
+
+
+package ;
+
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.unit.*
+
+object  {
+  val colorBrandCherry = Color(0xffff9eab)
+  val colorBrandMushroom = Color(0xfff1d367)
+  val colorBrandPear = Color(0xffdef358)
+  val colorBrandRadish = Color(0xffffcbb7)
+  val colorBrandWatermelon = Color(0xff7db8a9)
+  val colorGray200 = Color(0xffc97c7c)
+  val colorGray400 = Color(0xffafafaf)
+  val colorGray50 = Color(0xff8a2e2e)
+  val colorGray600 = Color(0xff7c7c7c)
+  val colorGray800 = Color(0xff343434)
+  val colorGray900 = Color(0xff202020)
+  val radius2xl = 128
+  val radius3xl = 360
+  val radiusLg = 16
+  val radiusMd = 8
+  val radiusSm = 4
+  val radiusXl = 32
+  val spacing1 = 8
+  val spacing10 = 80
+  val spacing11 = 88
+  val spacing12 = 96
+  val spacing13 = 104
+  val spacing2 = 16
+  val spacing3 = 24
+  val spacing4 = 32
+  val spacing5 = 40
+  val spacing6 = 48
+  val spacing7 = 56
+  val spacing8 = 64
+  val spacing9 = 72
+  val spacingHalf = 4
+}
