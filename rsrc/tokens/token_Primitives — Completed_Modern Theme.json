@@ -1,136 +1,37 @@
-{
-  "color": {
-    "brand": {
-      "cherry": {
-        "$type": "color",
-        "$value": "#ff9eab"
-      },
-      "mushroom": {
-        "$type": "color",
-        "$value": "#f1d367"
-      },
-      "pear": {
-        "$type": "color",
-        "$value": "#def358"
-      },
-      "radish": {
-        "$type": "color",
-        "$value": "#ffcbb7"
-      },
-      "watermelon": {
-        "$type": "color",
-        "$value": "#7db8a9"
-      }
-    },
-    "gray": {
-      "200": {
-        "$type": "color",
-        "$value": "#c97c7c"
-      },
-      "400": {
-        "$type": "color",
-        "$value": "#afafaf"
-      },
-      "50": {
-        "$type": "color",
-        "$value": "#b27979"
-      },
-      "600": {
-        "$type": "color",
-        "$value": "#7c7c7c"
-      },
-      "800": {
-        "$type": "color",
-        "$value": "#343434"
-      },
-      "900": {
-        "$type": "color",
-        "$value": "#202020"
-      }
-    }
-  },
-  "radius": {
-    "2xl": {
-      "$type": "number",
-      "$value": 128
-    },
-    "3xl": {
-      "$type": "number",
-      "$value": 360
-    },
-    "lg": {
-      "$type": "number",
-      "$value": 16
-    },
-    "md": {
-      "$type": "number",
-      "$value": 8
-    },
-    "sm": {
-      "$type": "number",
-      "$value": 4
-    },
-    "xl": {
-      "$type": "number",
-      "$value": 32
-    }
-  },
-  "spacing": {
-    "1": {
-      "$type": "number",
-      "$value": 8
-    },
-    "10": {
-      "$type": "number",
-      "$value": 80
-    },
-    "11": {
-      "$type": "number",
-      "$value": 88
-    },
-    "12": {
-      "$type": "number",
-      "$value": 96
-    },
-    "13": {
-      "$type": "number",
-      "$value": 104
-    },
-    "2": {
-      "$type": "number",
-      "$value": 16
-    },
-    "3": {
-      "$type": "number",
-      "$value": 24
-    },
-    "4": {
-      "$type": "number",
-      "$value": 32
-    },
-    "5": {
-      "$type": "number",
-      "$value": 40
-    },
-    "6": {
-      "$type": "number",
-      "$value": 48
-    },
-    "7": {
-      "$type": "number",
-      "$value": 56
-    },
-    "8": {
-      "$type": "number",
-      "$value": 64
-    },
-    "9": {
-      "$type": "number",
-      "$value": 72
-    },
-    "half": {
-      "$type": "number",
-      "$value": 4
-    }
-  }
-}
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<resources>
+  <color name="color_brand_cherry">#ffff9eab</color>
+  <color name="color_brand_mushroom">#fff1d367</color>
+  <color name="color_brand_pear">#ffdef358</color>
+  <color name="color_brand_radish">#ffffcbb7</color>
+  <color name="color_brand_watermelon">#ff7db8a9</color>
+  <color name="color_gray_50">#ffdb8686</color>
+  <color name="color_gray_200">#ffc97c7c</color>
+  <color name="color_gray_400">#ffafafaf</color>
+  <color name="color_gray_600">#ff7c7c7c</color>
+  <color name="color_gray_800">#ff343434</color>
+  <color name="color_gray_900">#ff202020</color>
+  <string name="radius_2xl">128</string>
+  <string name="radius_3xl">360</string>
+  <string name="radius_lg">16</string>
+  <string name="radius_md">8</string>
+  <string name="radius_sm">4</string>
+  <string name="radius_xl">32</string>
+  <string name="spacing_1">8</string>
+  <string name="spacing_2">16</string>
+  <string name="spacing_3">24</string>
+  <string name="spacing_4">32</string>
+  <string name="spacing_5">40</string>
+  <string name="spacing_6">48</string>
+  <string name="spacing_7">56</string>
+  <string name="spacing_8">64</string>
+  <string name="spacing_9">72</string>
+  <string name="spacing_10">80</string>
+  <string name="spacing_11">88</string>
+  <string name="spacing_12">96</string>
+  <string name="spacing_13">104</string>
+  <string name="spacing_half">4</string>
+  
+</resources>
