@@ -2,135 +2,135 @@
   "color": {
     "brand": {
       "cherry": {
-        "$type": "color",
-        "$value": "#ff9eab"
+        "type": "color",
+        "value": "#ff9eab"
       },
       "mushroom": {
-        "$type": "color",
-        "$value": "#f1d367"
+        "type": "color",
+        "value": "#f1d367"
       },
       "pear": {
-        "$type": "color",
-        "$value": "#def358"
+        "type": "color",
+        "value": "#def358"
       },
       "radish": {
-        "$type": "color",
-        "$value": "#ffcbb7"
+        "type": "color",
+        "value": "#ffcbb7"
       },
       "watermelon": {
-        "$type": "color",
-        "$value": "#7db8a9"
+        "type": "color",
+        "value": "#7db8a9"
       }
     },
     "gray": {
       "200": {
-        "$type": "color",
-        "$value": "#c97c7c"
+        "type": "color",
+        "value": "#c97c7c"
       },
       "400": {
-        "$type": "color",
-        "$value": "#afafaf"
+        "type": "color",
+        "value": "#afafaf"
       },
       "50": {
-        "$type": "color",
-        "$value": "#b27979"
+        "type": "color",
+        "value": "#c03434"
       },
       "600": {
-        "$type": "color",
-        "$value": "#7c7c7c"
+        "type": "color",
+        "value": "#7c7c7c"
       },
       "800": {
-        "$type": "color",
-        "$value": "#343434"
+        "type": "color",
+        "value": "#343434"
       },
       "900": {
-        "$type": "color",
-        "$value": "#202020"
+        "type": "color",
+        "value": "#202020"
       }
     }
   },
   "radius": {
     "2xl": {
-      "$type": "number",
-      "$value": 128
+      "type": "number",
+      "value": 128
     },
     "3xl": {
-      "$type": "number",
-      "$value": 360
+      "type": "number",
+      "value": 360
     },
     "lg": {
-      "$type": "number",
-      "$value": 16
+      "type": "number",
+      "value": 16
     },
     "md": {
-      "$type": "number",
-      "$value": 8
+      "type": "number",
+      "value": 8
     },
     "sm": {
-      "$type": "number",
-      "$value": 4
+      "type": "number",
+      "value": 4
     },
     "xl": {
-      "$type": "number",
-      "$value": 32
+      "type": "number",
+      "value": 32
     }
   },
   "spacing": {
     "1": {
-      "$type": "number",
-      "$value": 8
+      "type": "number",
+      "value": 8
     },
     "10": {
-      "$type": "number",
-      "$value": 80
+      "type": "number",
+      "value": 80
     },
     "11": {
-      "$type": "number",
-      "$value": 88
+      "type": "number",
+      "value": 88
     },
     "12": {
-      "$type": "number",
-      "$value": 96
+      "type": "number",
+      "value": 96
     },
     "13": {
-      "$type": "number",
-      "$value": 104
+      "type": "number",
+      "value": 104
     },
     "2": {
-      "$type": "number",
-      "$value": 16
+      "type": "number",
+      "value": 16
     },
     "3": {
-      "$type": "number",
-      "$value": 24
+      "type": "number",
+      "value": 24
     },
     "4": {
-      "$type": "number",
-      "$value": 32
+      "type": "number",
+      "value": 32
     },
     "5": {
-      "$type": "number",
-      "$value": 40
+      "type": "number",
+      "value": 40
     },
     "6": {
-      "$type": "number",
-      "$value": 48
+      "type": "number",
+      "value": 48
     },
     "7": {
-      "$type": "number",
-      "$value": 56
+      "type": "number",
+      "value": 56
     },
     "8": {
-      "$type": "number",
-      "$value": 64
+      "type": "number",
+      "value": 64
     },
     "9": {
-      "$type": "number",
-      "$value": 72
+      "type": "number",
+      "value": 72
     },
     "half": {
-      "$type": "number",
-      "$value": 4
+      "type": "number",
+      "value": 4
     }
   }
 }
