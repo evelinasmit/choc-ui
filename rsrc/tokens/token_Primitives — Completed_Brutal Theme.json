@@ -1,51 +1,55 @@
 {
   "color": {
     "brand": {
+      "apple": {
+        "$type": "color",
+        "$value": "#B1C577"
+      },
       "cherry": {
         "$type": "color",
-        "$value": "#ffbe16"
+        "$value": "#FFBE16"
       },
       "mushroom": {
         "$type": "color",
-        "$value": "#ffbe16"
+        "$value": "#FFBE16"
       },
       "pear": {
         "$type": "color",
-        "$value": "#ffbe16"
+        "$value": "#FFBE16"
       },
       "radish": {
         "$type": "color",
-        "$value": "#ffbe16"
+        "$value": "#FFBE16"
       },
       "watermelon": {
         "$type": "color",
-        "$value": "#ffbe16"
+        "$value": "#FFBE16"
       }
     },
     "gray": {
       "200": {
         "$type": "color",
-        "$value": "#cfa0ff"
+        "$value": "#CFA0FF"
       },
       "400": {
         "$type": "color",
-        "$value": "#b874ff"
+        "$value": "#B874FF"
       },
       "50": {
         "$type": "color",
-        "$value": "#eedeff"
+        "$value": "#EEDEFF"
       },
       "600": {
         "$type": "color",
-        "$value": "#bc7cff"
+        "$value": "#BC7CFF"
       },
       "800": {
         "$type": "color",
-        "$value": "#a854ff"
+        "$value": "#A854FF"
       },
       "900": {
         "$type": "color",
-        "$value": "#33057e"
+        "$value": "#33057E"
       }
     }
   },
