@@ -1,0 +1,13 @@
+
+//
+// 
+//
+
+import UIKit
+
+public class TestingQAAAA {
+    public static let d9D9D9 = #AA2D2D
+    public static let textIconsNeutralPrimaryReversed = #FFFFFF
+    public static let textIconsNeutralSecondary = #605F60
+    public static let untitledAFolderAnother1Style = #515656 /* Some color */
+}
