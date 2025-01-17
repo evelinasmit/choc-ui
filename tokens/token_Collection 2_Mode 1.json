@@ -1,6 +1,10 @@
 {
   "Color": {
     "$type": "color",
-    "$value": "#ffffff"
+    "$value": "#FFFFFF"
+  },
+  "wow": {
+    "$type": "color",
+    "$value": "#763A3A"
   }
 }
