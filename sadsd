@@ -1,0 +1,67 @@
+
+//
+// 
+//
+
+import UIKit
+
+public class ASSDA {
+    public static let actualBlack = #000000
+    public static let air = #2759E4
+    public static let barelyGray = #9A9A9A0D
+    public static let barelyPurple = #F2C3FF40
+    public static let barelyYellow = #FFFF2826
+    public static let bermudaGreen = #98FF95
+    public static let blancoWhite = #FFFFFF
+    public static let clooneyBlue = #3C54A9
+    public static let draculaRed = #BF2600
+    public static let e1 = #121628
+    public static let e2 = #1B2138
+    public static let e3 = #2B3757
+    public static let e4 = #3C496D
+    public static let ezraGray = #ACACACBF
+    public static let fresh = #66D383
+    public static let grammyRed = #A43B3E
+    public static let greenG500 = #006644
+    public static let grimacePurple = #9322A6
+    public static let gummyBlue = #D9FCF6
+    public static let huntingGreen = #006644
+    public static let kiloGray = #ACACAC
+    public static let laffyPurple = #F2C3FF
+    public static let lightMint = #E3FCEF
+    public static let lightSectionRowDefine = #EDEDED
+    public static let mango = #FFAB00
+    public static let meldingGray = #9A9A9A1A
+    public static let midnight = #121830
+    public static let moreSullenBlue = #162243
+    public static let n10 = #E7E9EC
+    public static let n100 = #121830
+    public static let n20 = #D0D3DA
+    public static let n30 = #B8BCC7
+    public static let n70 = #5A637D
+    public static let n80 = #434D6A
+    public static let n90 = #2B3757
+    public static let nBlue100 = #4979FF
+    public static let nBlue80 = #6D94FF
+    public static let nBlue90 = #5B86FF
+    public static let navy = #142145
+    public static let neutralLightN0 = #FFFFFF
+    public static let neutralLightN700 = #253858
+    public static let nuclearYellow = #FFFF28
+    public static let otherClickable = #FFFFFF00
+    public static let pizzaParty = #FFEBE6
+    public static let pumpedUpPink = #FF4C9B
+    public static let punch = #F83356
+    public static let redR500 = #BF2600
+    public static let retinaCyan = #00FFF2
+    public static let rogueRed = #FF4F4F
+    public static let secondWhite = #F0F0F0
+    public static let sky = #4979FF
+    public static let skyBlueYonder = #20D7FF
+    public static let summerYellow = #FFEC89
+    public static let sunsetOrange = #FFBB7D
+    public static let tomato = #EF5B52
+    public static let undercoverGray = #E5E5E5
+    public static let wallflowerGray = #FAFAFABF
+    public static let white = #FFFFFF
+}
