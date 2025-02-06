@@ -1,6 +1,11 @@
 {
   "Color": {
     "$type": "color",
-    "$value": "#701e1e"
+    "$value": "#701E1E"
+  },
+  "zz`z`zx": {
+    "$type": "color",
+    "$value": "#460E0E",
+    "$description": "`zxz`x`zx"
   }
 }
