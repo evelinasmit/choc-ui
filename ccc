@@ -1,0 +1,68 @@
+
+
+
+package ;
+
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.unit.*
+
+object  {
+  val actualBlack = #000000
+  val air = #2759E4
+  val barelyGray = #9A9A9A0D
+  val barelyPurple = #F2C3FF40
+  val barelyYellow = #FFFF2826
+  val bermudaGreen = #98FF95
+  val blancoWhite = #FFFFFF
+  val clooneyBlue = #3C54A9
+  val draculaRed = #BF2600
+  val e1 = #121628
+  val e2 = #1B2138
+  val e3 = #2B3757
+  val e4 = #3C496D
+  val ezraGray = #ACACACBF
+  val fresh = #66D383
+  val grammyRed = #A43B3E
+  val greenG500 = #006644
+  val grimacePurple = #9322A6
+  val gummyBlue = #D9FCF6
+  val huntingGreen = #006644
+  val kiloGray = #ACACAC
+  val laffyPurple = #F2C3FF
+  val lightMint = #E3FCEF
+  val lightSectionRowDefine = #EDEDED
+  val mango = #FFAB00
+  val meldingGray = #9A9A9A1A
+  val midnight = #121830
+  val moreSullenBlue = #162243
+  val n10 = #E7E9EC
+  val n100 = #121830
+  val n20 = #D0D3DA
+  val n30 = #B8BCC7
+  val n70 = #5A637D
+  val n80 = #434D6A
+  val n90 = #2B3757
+  val nBlue100 = #4979FF
+  val nBlue80 = #6D94FF
+  val nBlue90 = #5B86FF
+  val navy = #142145
+  val neutralLightN0 = #FFFFFF
+  val neutralLightN700 = #253858
+  val nuclearYellow = #FFFF28
+  val otherClickable = #FFFFFF00
+  val pizzaParty = #FFEBE6
+  val pumpedUpPink = #FF4C9B
+  val punch = #F83356
+  val redR500 = #BF2600
+  val retinaCyan = #00FFF2
+  val rogueRed = #FF4F4F
+  val secondWhite = #F0F0F0
+  val sky = #4979FF
+  val skyBlueYonder = #20D7FF
+  val summerYellow = #FFEC89
+  val sunsetOrange = #FFBB7D
+  val tomato = #EF5B52
+  val undercoverGray = #E5E5E5
+  val wallflowerGray = #FAFAFABF
+  val white = #FFFFFF
+}
